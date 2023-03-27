@@ -17,3 +17,9 @@ margin: 0rem;
 img {
    width: 100%; 
 }
+
+.logo {
+    width: 160px;
+    display: block;
+    margin: auto;
+}
