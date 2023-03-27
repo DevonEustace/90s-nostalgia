@@ -13,3 +13,7 @@ html {
 body {
 margin: 0rem;
 }
+
+img {
+   width: 100%; 
+}
