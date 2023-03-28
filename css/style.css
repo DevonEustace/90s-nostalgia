@@ -91,4 +91,18 @@ nav a:hover, a:focus {
   background-color: purple;
 }
 
-figcaption
+.trends div figure {
+  width: 22%;
+  display: inline-block;
+  text-align: center;
+}
+
+figcaption {
+  color: white;
+  font-style: italic;
+}
+
+.icon {
+  display: block;
+  padding: 2em 0;
+}
