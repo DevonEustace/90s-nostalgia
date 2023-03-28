@@ -112,3 +112,11 @@ figcaption {
   float: left;
   margin-right: 2em;
 }
+
+.icon p:last-child {
+  float: none;
+}
+
+.featuredarticles {
+  display: none;
+}
