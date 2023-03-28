@@ -58,3 +58,11 @@ nav a:link, a:visited {
   border-color: white;
   text-decoration: none;
 }
+
+nav a:hover, a:focus {
+  background-color: white;
+  color: purple;
+  border-style: solid;
+  border-width: 2px;
+  border-color: purple;
+}
