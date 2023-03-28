@@ -38,11 +38,23 @@ ul li{
 list-style-type: none;
 display: inline;
 padding: 0px;
-text-align: center;
+}
+
+nav {
+  text-align: center;
 }
 
 nav a {
   display: inline-block;
   padding: .5em .75em;
   border-radius: 8px;
+}
+
+nav a:link, a:visited {
+  background-color: purple;
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  text-decoration: none;
 }
