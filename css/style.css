@@ -117,6 +117,16 @@ figcaption {
   float: none;
 }
 
-.featuredarticles {
+.featured-articles {
   display: none;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+.wrapper p:last-of-type {
+align-items: center;
+padding: 8px 0;
 }
